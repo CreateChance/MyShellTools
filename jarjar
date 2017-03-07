@@ -1,0 +1,9 @@
+#########################################################################
+# File Name: /home/baniel/bin/jarjar.sh
+# Author: Baniel Gao
+# mail: createchance@163.com
+# Created Time: 2015年07月21日 星期二 17时28分33秒
+#########################################################################
+#!/bin/bash
+
+java -jar jarjar-1.4.jar $1

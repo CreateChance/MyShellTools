@@ -1,0 +1,9 @@
+#########################################################################
+# File Name: /home/baniel/bin/apktool.sh
+# Author: Baniel Gao
+# mail: createchance@163.com
+# Created Time: 2015年07月21日 星期二 14时42分16秒
+#########################################################################
+#!/bin/bash
+
+java -jar /home/baniel/UsefulTools/apktool1.5.2/apktool.jar d $1
